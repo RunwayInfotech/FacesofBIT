@@ -1,4 +1,1 @@
-FacesofBIT
-==========
-
-First college related project
+The project was to design & develop a fully functional dynamic website that help students to get to know other students on our campus. The idea was centred on students liking and commenting on each other photos making interaction happen in a more fun way. The site is developed from scratch using PHP, JS, and HTML5 & CSS3. All web data was store on MYSQL
